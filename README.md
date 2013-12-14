@@ -1,4 +1,4 @@
-## Cookie Parse
+## Getaeu (Cookie)
 
 I can never remember APIs for other cookie libraries so I made my own with a french title.
 
