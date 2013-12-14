@@ -1,11 +1,11 @@
 ## Cookie Parse
 
-I can never remember APIs for other cookie libraries so I made my own.
+I can never remember APIs for other cookie libraries so I made my own with a french title.
 
 ```
-var cookieParse = require('cookieparse');
+var cookies = require('getaeu');
 
-cookieParse('foo=bar; baz=biz');
+cookies('foo=bar; baz=biz');
 // { foo: 'bar', baz: 'biz' }
 
 ```
