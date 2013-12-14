@@ -1,0 +1,26 @@
+{
+  "name": "getaeu",
+  "version": "0.0.1",
+  "description": "Cookie Parser",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:TJkrusinski/getaeu.git"
+  },
+  "keywords": [
+    "Cookie",
+    "Parser"
+  ],
+  "author": "TJ Krusinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TJkrusinski/getaeu/issues"
+  },
+  "homepage": "https://github.com/TJkrusinski/getaeu"
+}
