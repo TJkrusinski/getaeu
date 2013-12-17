@@ -1,5 +1,7 @@
 ## Getaeu (Cookie)
 
+[![Build Status](https://travis-ci.org/TJkrusinski/getaeu.png?branch=master)](https://travis-ci.org/TJkrusinski/getaeu)
+
 I can never remember APIs for other cookie libraries so I made my own with a french title.
 
 ```

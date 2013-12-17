@@ -1,6 +1,6 @@
 {
   "name": "getaeu",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Cookie Parser",
   "main": "index.js",
   "directories": {
